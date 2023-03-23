@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidBasicsHappyBirthdayApp</string>
+    <string name="happy_birthday_greeting">Happy birthday Azamat!</string>
+    <string name="signature_text">-from Leeyah</string>
+</resources>
